@@ -1,0 +1,9 @@
+/include/linux/sched.h
+/include/linux/init_task.h
+/kernel/fork.c
+/kernel/exit.c
+/Makefile
+/arch/x86/syscalls/syscall_32.tbl
+/include/linux/syscall.h
+/setmyFlag/setmyFlag.c
+/setmyFlag/Makefile
