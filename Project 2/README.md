@@ -4,6 +4,8 @@ A device driver that will act as a simple message box between the users on a sys
 
 For example, if the user "alice" wants to send a message to the user "bob" to say "Hello", she will write to the device the text "@bob Hello". Later, when user "bob" reads from the device he will see the message as "alice: Hello". Although the message box is global for all users, user "bob" will not see any messages sent to other users.
 
+You can find more information for this project [here](Project%20Description.pdf)
+
 ## Prerequisites
 For this project, it is used Lubuntu 14.04.
 
